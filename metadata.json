@@ -1,0 +1,7 @@
+{
+  "name": "Tenda de Pai José de Angola IA",
+  "description": "Uma IA sábia e acolhedora incorporando a sabedoria de um Preto Velho para ensinar sobre a Umbanda.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
